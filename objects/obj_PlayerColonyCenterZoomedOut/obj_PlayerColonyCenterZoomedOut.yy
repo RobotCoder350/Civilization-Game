@@ -1,8 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ColonyCenter",
+  "name": "obj_PlayerColonyCenterZoomedOut",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_ColonyCenter",
-    "path": "sprites/spr_ColonyCenter/spr_ColonyCenter.yy",
+    "name": "spr_ColonyCenterZoomedOut",
+    "path": "sprites/spr_ColonyCenterZoomedOut/spr_ColonyCenterZoomedOut.yy",
   },
   "spriteMaskId": null,
   "visible": true,

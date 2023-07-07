@@ -19,9 +19,12 @@
   "ResourceOrderSettings": [
     {"name":"spr_BuildZone","order":2,"path":"sprites/spr_BuildZone/spr_BuildZone.yy",},
     {"name":"obj_ColonyCenter","order":2,"path":"objects/obj_ColonyCenter/obj_ColonyCenter.yy",},
+    {"name":"obj_PlayerColonyCenterZoomedOut","order":7,"path":"objects/obj_PlayerColonyCenterZoomedOut/obj_PlayerColonyCenterZoomedOut.yy",},
     {"name":"obj_Camera","order":3,"path":"objects/obj_Camera/obj_Camera.yy",},
     {"name":"obj_BuildZone","order":6,"path":"objects/obj_BuildZone/obj_BuildZone.yy",},
     {"name":"obj_Test","order":5,"path":"objects/obj_Test/obj_Test.yy",},
+    {"name":"obj_TestBuild","order":8,"path":"objects/obj_TestBuild/obj_TestBuild.yy",},
+    {"name":"spr_ColonyCenterZoomedOut","order":3,"path":"sprites/spr_ColonyCenterZoomedOut/spr_ColonyCenterZoomedOut.yy",},
     {"name":"obj_PlayerColonyWall","order":4,"path":"objects/obj_PlayerColonyWall/obj_PlayerColonyWall.yy",},
     {"name":"obj_Player","order":1,"path":"objects/obj_Player/obj_Player.yy",},
     {"name":"Note1","order":16,"path":"notes/Note1/Note1.yy",},

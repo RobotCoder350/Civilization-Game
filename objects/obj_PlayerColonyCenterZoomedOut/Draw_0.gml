@@ -1,0 +1,1 @@
+if(obj_Camera.zoomLevel > 2.5) draw_self();
