@@ -1,0 +1,1 @@
+if(obj_Player.buildMode = true) draw_self();
