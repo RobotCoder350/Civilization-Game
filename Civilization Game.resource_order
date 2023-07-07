@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_ColonyCenter","order":2,"path":"objects/obj_ColonyCenter/obj_ColonyCenter.yy",},
     {"name":"obj_Camera","order":3,"path":"objects/obj_Camera/obj_Camera.yy",},
+    {"name":"obj_Test","order":5,"path":"objects/obj_Test/obj_Test.yy",},
     {"name":"obj_PlayerColonyWall","order":4,"path":"objects/obj_PlayerColonyWall/obj_PlayerColonyWall.yy",},
     {"name":"obj_Player","order":1,"path":"objects/obj_Player/obj_Player.yy",},
     {"name":"Note1","order":16,"path":"notes/Note1/Note1.yy",},

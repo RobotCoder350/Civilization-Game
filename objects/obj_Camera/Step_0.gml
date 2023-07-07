@@ -5,3 +5,5 @@ var rate = 0.2;
 var newW = lerp(viewW, zoomLevel * defaultZoomWidth, rate);
 var newH = lerp(viewH, zoomLevel * defaultZoomHeight, rate);
 camera_set_view_size(view_camera[0], newW, newH);
+
+if(obj_Player.buildMode = true) zoomLevel = 1;

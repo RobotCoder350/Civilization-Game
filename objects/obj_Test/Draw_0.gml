@@ -9,3 +9,5 @@ if(obj_Player.buildMode = true)
 	draw_set_alpha(.8);
 	draw_sprite(spr_ColonyCenter, 0, xx, yy);
 }
+
+draw_set_alpha(1);

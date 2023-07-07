@@ -37,6 +37,7 @@
     {"id":{"name":"obj_Grid","path":"objects/obj_Grid/obj_Grid.yy",},},
     {"id":{"name":"obj_ColonyCenter","path":"objects/obj_ColonyCenter/obj_ColonyCenter.yy",},},
     {"id":{"name":"obj_Camera","path":"objects/obj_Camera/obj_Camera.yy",},},
+    {"id":{"name":"obj_Test","path":"objects/obj_Test/obj_Test.yy",},},
     {"id":{"name":"spr_ColonyCenter","path":"sprites/spr_ColonyCenter/spr_ColonyCenter.yy",},},
     {"id":{"name":"obj_PlayerColonyWall","path":"objects/obj_PlayerColonyWall/obj_PlayerColonyWall.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
