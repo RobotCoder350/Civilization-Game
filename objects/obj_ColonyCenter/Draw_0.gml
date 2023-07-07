@@ -7,5 +7,5 @@ if(obj_Player.buildMode = true)
 	yy = yy * obj_Grid.cellSize;
 	
 	draw_set_alpha(.8);
-	draw_sprite(spr_TestBuilding, 0, xx, yy);
+	draw_sprite(spr_ColonyCenter, 0, xx, yy);
 }

@@ -1,1 +1,1 @@
-instance_create_layer(0, 0, "Instances", obj_TestBuilding);
+instance_create_layer(0, 0, "Instances", obj_ColonyCenter);

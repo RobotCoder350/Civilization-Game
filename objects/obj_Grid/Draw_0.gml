@@ -1,19 +1,22 @@
 draw_set_alpha(.4);
 
-var xx = 0;
-
-var r = room_width div cellSize;
-repeat(r)
+if(obj_Camera.zoomLevel  < 1.2)
 {
-	draw_line_color(xx, 0, xx, room_height, c_white, c_white);
-	xx = xx + cellSize;
-}
+	var xx = obj_PlayerColonyWall.x;
 
-var yy = 0;
+	var r = obj_PlayerColonyWall.sprite_width div cellSize + 1;
+	repeat(r)
+	{
+		draw_line_color(xx, obj_PlayerColonyWall.y, xx, obj_PlayerColonyWall.y + obj_PlayerColonyWall.sprite_width, c_white, c_white);
+		xx = xx + cellSize;
+	}
 
-var r = room_height div cellSize;
-repeat(r)
-{
-	draw_line_color(0, yy, room_width, yy, c_white, c_white);
-	yy = yy + cellSize;
+	var yy = obj_PlayerColonyWall.y;
+
+	var r = obj_PlayerColonyWall.sprite_height div cellSize + 1;
+	repeat(r)
+	{
+		draw_line_color(obj_PlayerColonyWall.x, yy, obj_PlayerColonyWall.x + obj_PlayerColonyWall.sprite_height, yy, c_white, c_white);
+		yy = yy + cellSize;
+	}
 }

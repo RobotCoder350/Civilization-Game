@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_TestBuilding",
+  "name": "obj_ColonyCenter",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_TestBuilding",
-    "path": "sprites/spr_TestBuilding/spr_TestBuilding.yy",
+    "name": "spr_ColonyCenter",
+    "path": "sprites/spr_ColonyCenter/spr_ColonyCenter.yy",
   },
   "spriteMaskId": null,
   "visible": true,
